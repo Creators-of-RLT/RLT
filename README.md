@@ -52,14 +52,12 @@
 
 Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
 
-<a href="https://vk.com/mc4444">
-    <img height="38" src="Иконки/vk.svg">
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
-    <img height="38" src="Иконки/curseforge.svg">
+    <img height="38" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg">
 </a>
 <a href="https://modrinth.com/resourcepack/mods-ru">
-    <img height="38" src="Иконки/modrinth.svg">
+    <img height="38" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg">
 </a>
 
 ## 🧑‍🤝‍🧑 Авторы
