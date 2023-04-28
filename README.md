@@ -50,7 +50,7 @@
 
 ## ➕ Установка
 
-Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
+Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/Creators-of-RLT/RLT/releases) или со следующих сайтов:
 
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
@@ -59,14 +59,15 @@
 <a href="https://modrinth.com/resourcepack/mods-ru">
     <img height="38" src="Иконки/modrinth.svg">
 </a>
+<a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
+    <img height="38" src="Иконки/githu.svg">
+</a>
 
 ## 🧑‍🤝‍🧑 Авторы
 
 * [**VGamerGroup**](https://github.com/RushanM): владелец, переводчик
 * [**GGamerGroup**](https://github.com/RushanM): придумыватель, переводчик 
-* [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium), 
-* [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) и [Rotten Creatures](https://modrinth.com/mod/rottencreatures) на русский язык;
-* [**UltraStorm**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
+* [**UltraStorm**](https://github.com/intergrav): cоздатель дизайна [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
 
 ## 💴 Материальная поддержка
 
