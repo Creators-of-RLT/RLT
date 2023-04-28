@@ -21,7 +21,7 @@
 
 | Модификация | 1.16 | 1.17 | 1.18 | 1.19 |
 | - | - | - | - | - |
-| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский |
+| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ✅ Русский |
 | [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ✅ Русский | ❌ | ❌ | ✅ Русский |
 | [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ❌ | ✅ Русский | ❌ | ❌ |
 | [Better Mods Button](https://modrinth.com/mod/better-mods-button) | ❌ | ✅ Русский | ❌ | ❌ |
