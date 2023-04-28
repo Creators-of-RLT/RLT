@@ -60,7 +60,7 @@
     <img height="38" src="Иконки/modrinth.svg">
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
-    <img height="38" src="Иконки/githu.svg">
+    <img height="38" src="Иконки/github.svg">
 </a>
 
 ## 🧑‍🤝‍🧑 Авторы
