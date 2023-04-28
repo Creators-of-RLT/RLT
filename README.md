@@ -41,8 +41,8 @@
 | [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ❌ | ❌ | ✅ Русский | ✅ Русский |
 | [Additional Additions](https://modrinth.com/mod/addadd) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ❌ | ❌ | ✅ Русский | ✅ Русский |
-| [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Русский | ❌ |
-| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | ❌ | ✅ Русский | ❌ | ❌ |
+| [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ✅ Русский | 
+[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | ✅ Русский |
 
 Список будет пополняться.
 
