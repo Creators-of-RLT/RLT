@@ -19,28 +19,28 @@
 * ❌ — перевода пока нет;
 * ✅ — перевод готов.
 
-| Модификация | 1.16 | 1.17 | 1.18 | 1.19 |
-| - | - | - | - | - |
+| Модификация | Перевод |
+| - | - |
 | [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ✅ Русский |
 | [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ✅ Русский |
 | [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ✅ Русский |
-| [Better Mods Button](https://modrinth.com/mod/better-mods-button) | | ✅ Русский |
-| [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Mod Menu](https://modrinth.com/mod/modmenu) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский |
-| [Controlling](https://beta.curseforge.com/minecraft/mc-mods/controlling) | ✅ Русский | ❌ | ❌ | ✅ Русский |
-| [Raised](https://modrinth.com/mod/raised) | ✅ Русский | ❌ | ❌ | ❌ |
-| [EntityCulling](https://modrinth.com/mod/entityculling) | ✅ Русский | ❌ | ❌ | ❌ |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский | ❌ | ❌ | ✅ Русский |
-| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Русский | ❌ | ❌ | ❌ |
-| [Lucky Block](https://www.luckyblockmod.com) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
-| [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ❌ | ❌ | ✅ Русский | ✅ Русский |
-| [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ❌ | ❌ | ✅ Русский | ✅ Русский |
-| [Additional Additions](https://modrinth.com/mod/addadd) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
-| [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ❌ | ❌ | ✅ Русский | ✅ Русский |
+| [Better Mods Button](https://modrinth.com/mod/better-mods-button) | ✅ Русский |
+| [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Русский |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | ✅ Русский |
+| [Controlling](https://beta.curseforge.com/minecraft/mc-mods/controlling) | ✅ Русский |
+| [Raised](https://modrinth.com/mod/raised) | ✅ Русский |
+| [EntityCulling](https://modrinth.com/mod/entityculling) | ✅ Русский |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский |
+| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ✅ Русский |
+| [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ✅ Русский |
+| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ✅ Русский |
+| [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ✅ Русский |
+| [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Русский |
+| [Lucky Block](https://www.luckyblockmod.com) | ✅ Русский |
+| [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ✅ Русский |
+| [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ✅ Русский |
+| [Additional Additions](https://modrinth.com/mod/addadd) | ✅ Русский |
+| [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ✅ Русский |
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ✅ Русский | 
 [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | ✅ Русский |
 
