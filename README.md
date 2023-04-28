@@ -1,8 +1,4 @@
-⚠️ Ресурспак обновляется
-
----
-
-# Русский перевод модов Minecraft
+# RLT - Russian Language Translation
 
 Перевод на русский язык ингода сделан неправильно, либо его вообше нет.
 Поэтому был создан RLT, чтобы…
@@ -15,34 +11,34 @@
 <summary>Раскрыть список</summary>
 <br>
 
-* `1.16`, `1.17`, `1.18`, `1.19` — версии игры;
-* ❌ — перевода пока нет;
-* ✅ — перевод готов.
+### Условные обозначения
+* ✅ — перевод опубликован
+* 🖋️ — написание перевода
 
 | Модификация | Перевод |
 | - | - |
-| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ✅ Русский |
-| [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ✅ Русский |
-| [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ✅ Русский |
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | ✅ Русский |
+| [Additional Additions](https://modrinth.com/mod/addadd) | ✅ Русский |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский |
+| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ✅ Русский |
+| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ✅ Русский |
 | [Better Mods Button](https://modrinth.com/mod/better-mods-button) | ✅ Русский |
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Русский |
-| [Mod Menu](https://modrinth.com/mod/modmenu) | ✅ Русский |
-| [Controlling](https://beta.curseforge.com/minecraft/mc-mods/controlling) | ✅ Русский |
-| [Raised](https://modrinth.com/mod/raised) | ✅ Русский |
-| [EntityCulling](https://modrinth.com/mod/entityculling) | ✅ Русский |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский |
-| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ✅ Русский |
-| [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ✅ Русский |
-| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ✅ Русский |
-| [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ✅ Русский |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Русский |
+| [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ✅ Русский |
+| [Controlling](https://beta.curseforge.com/minecraft/mc-mods/controlling) | ✅ Русский |
+| [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ✅ Русский |
+| [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ✅ Русский | 
+| [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ✅ Русский |
+| [EntityCulling](https://modrinth.com/mod/entityculling) | ✅ Русский |
+| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ✅ Русский |
 | [Lucky Block](https://www.luckyblockmod.com) | ✅ Русский |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | ✅ Русский |
+| [Raised](https://modrinth.com/mod/raised) | ✅ Русский |
+| [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ✅ Русский |
 | [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ✅ Русский |
 | [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ✅ Русский |
-| [Additional Additions](https://modrinth.com/mod/addadd) | ✅ Русский |
-| [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ✅ Русский |
-| [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ✅ Русский | 
-[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | ✅ Русский |
+| [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ✅ Русский |
 
 Список будет пополняться.
 
@@ -50,7 +46,7 @@
 
 ## ➕ Установка
 
-Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/Creators-of-RLT/RLT/releases) или со следующих сайтов:
+Скачать ресурспак можно на площадках, таких как:
 
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
@@ -59,7 +55,7 @@
 <a href="https://modrinth.com/resourcepack/mods-ru">
     <img height="38" src="Иконки/modrinth.svg">
 </a>
-<a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
+<a href="https://github.com/Creators-of-RLT/RLT/releases">
     <img height="38" src="Иконки/github.svg">
 </a>
 
