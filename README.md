@@ -25,28 +25,28 @@
 
 | Модификация | Перевод |
 | - | - |
-| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) |      ✅ |
-| [Additional Additions](https://modrinth.com/mod/addadd) |      ✅ |
-| [AppleSkin](https://modrinth.com/mod/appleskin) |      ✅ |
-| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) |      ✅ |
-| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) |      ✅ |
-| [Better Mods Button](https://modrinth.com/mod/better-mods-button) |      ✅ |
-| [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) |      ✅ |
-| [Chat Heads](https://modrinth.com/mod/chat-heads) |      ✅ |
-| [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) |      ✅ |
-| [Controlling](https://beta.curseforge.com/minecraft/mc-mods/controlling) |      ✅ |
-| [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) |      ✅ |
-| [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) |      ✅ | 
-| [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) |      ✅ |
-| [EntityCulling](https://modrinth.com/mod/entityculling) |      ✅ |
-| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) |      ✅ |
-| [Lucky Block](https://www.luckyblockmod.com) |      ✅ |
-| [Mod Menu](https://modrinth.com/mod/modmenu) |      ✅ |
-| [Raised](https://modrinth.com/mod/raised) |      ✅ |
-| [Rotten Creatures](https://modrinth.com/mod/rottencreatures) |      ✅ |
-| [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) |      ✅ |
-| [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) |      ✅ |
-| [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) |      ✅ |
+| [Additional Additions](https://modrinth.com/mod/addadd) |      ✅ |
+| [AppleSkin](https://modrinth.com/mod/appleskin) |      ✅ |
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) |      ✅ |
+| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) |      ✅ |
+| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) |      ✅ |
+| [Better Mods Button](https://modrinth.com/mod/better-mods-button) |      ✅ |
+| [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) |      ✅ |
+| [Chat Heads](https://modrinth.com/mod/chat-heads) |      ✅ |
+| [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) |      ✅ |
+| [Controlling](https://beta.curseforge.com/minecraft/mc-mods/controlling) |      ✅ |
+| [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) |      ✅ |
+| [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) |      ✅ | 
+| [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) |      ✅ |
+| [EntityCulling](https://modrinth.com/mod/entityculling) |      ✅ |
+| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) |      ✅ |
+| [Lucky Block](https://www.luckyblockmod.com) |      ✅ |
+| [Mod Menu](https://modrinth.com/mod/modmenu) |      ✅ |
+| [Raised](https://modrinth.com/mod/raised) |      ✅ |
+| [Rotten Creatures](https://modrinth.com/mod/rottencreatures) |      ✅ |
+| [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) |      ✅ |
+| [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) |      ✅ |
+| [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) |      ✅ |
 
 Список будет пополняться.
 
