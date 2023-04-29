@@ -58,16 +58,10 @@
 
 Скачать ресурспак можно на площадках, таких как:
 
-</a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
     <img height="38" src="Иконки/curseforge.svg">
-</a>
 <a href="https://modrinth.com/resourcepack/mods-ru">
     <img height="38" src="Иконки/modrinth.svg">
-</a>
-<a href="https://github.com/Creators-of-RLT/RLT/releases">
-    <img height="38" src="Иконки/github.svg">
-</a>
 
 ---
 
