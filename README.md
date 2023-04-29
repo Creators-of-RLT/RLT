@@ -29,7 +29,6 @@
 | [AppleSkin](https://modrinth.com/mod/appleskin) |      ✅ |
 | [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) |      ✅ |
 | [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) |      ✅ |
-| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) |      ✅ |
 | [Better Mods Button](https://modrinth.com/mod/better-mods-button) |      ✅ |
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) |      ✅ |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) |      ✅ |
