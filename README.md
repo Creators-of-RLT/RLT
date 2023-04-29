@@ -77,7 +77,7 @@
 
 Если вы готовы поддержать проект, то можете сделать это по следующим ссылкам:
 
-* ЮMoney: <https://yoomoney.ru/to/4100118024608051>
-* QIWI: <https://qiwi.com/n/VGAMERGROUP>
+* [QIWI](https://qiwi.com/n/VGAMERGROUP)
+* [ЮMoney](https://yoomoney.ru/to/4100118024608051)
 
 Спасибо за горячий шоколад!
