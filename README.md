@@ -75,7 +75,6 @@
 ## 🧑‍🤝‍🧑 Авторы
 
 * [**VGamerGroup**](https://github.com/RushanM): владелец, переводчик
-* [**GGamerGroup**](https://github.com/RushanM): придумыватель, переводчик 
 * [**UltraStorm**](https://github.com/intergrav): cоздатель дизайна [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
 
 ---
@@ -162,7 +161,6 @@
 ## 🧑‍🤝‍🧑 Авторы
 
 * [**VGamerGroup**](https://github.com/RushanM): владелец, переводчик
-* [**GGamerGroup**](https://github.com/RushanM): придумыватель, переводчик 
 * [**UltraStorm**](https://github.com/intergrav): cоздатель дизайна [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
 
 ---
@@ -176,4 +174,4 @@
 
 Спасибо за горячий шоколад!
 
-</details>   
+</details>
