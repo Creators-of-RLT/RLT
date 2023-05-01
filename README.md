@@ -41,6 +41,7 @@
 | [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) |      ✅ |
 | [Controlling](https://beta.curseforge.com/minecraft/mc-mods/controlling) |      ✅ |
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) |      ✅ |
+| [Create: Steam n Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) |      ✅ |
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) |      ✅ | 
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) |      ✅ |
 | [EntityCulling](https://modrinth.com/mod/entityculling) |      ✅ |
